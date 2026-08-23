@@ -1,0 +1,32 @@
+export const senegalImages = {
+  dakarStreet: 'https://images.pexels.com/photos/37904482/pexels-photo-37904482.jpeg?auto=compress&cs=tinysrgb&w=1600',
+  dakarCoast: 'https://images.pexels.com/photos/37461627/pexels-photo-37461627.jpeg?auto=compress&cs=tinysrgb&w=1600',
+  dakarPikine: 'https://images.pexels.com/photos/18189687/pexels-photo-18189687.jpeg?auto=compress&cs=tinysrgb&w=1600',
+  dakarCoastal: 'https://images.pexels.com/photos/18189717/pexels-photo-18189717.jpeg?auto=compress&cs=tinysrgb&w=1600',
+  senegalFishermen: 'https://images.pexels.com/photos/18189731/pexels-photo-18189731.jpeg?auto=compress&cs=tinysrgb&w=1600',
+  senegalBoats: 'https://images.pexels.com/photos/37904491/pexels-photo-37904491.jpeg?auto=compress&cs=tinysrgb&w=1600',
+  senegalWomen: 'https://images.pexels.com/photos/12014943/pexels-photo-12014943.jpeg?auto=compress&cs=tinysrgb&w=1600',
+  businessmenDakar: 'https://images.pexels.com/photos/12179672/pexels-photo-12179672.jpeg?auto=compress&cs=tinysrgb&w=1600',
+  studentsStudy: 'https://images.pexels.com/photos/5538343/pexels-photo-5538343.jpeg?auto=compress&cs=tinysrgb&w=1600',
+  studentsCampus: 'https://images.pexels.com/photos/5537498/pexels-photo-5537498.jpeg?auto=compress&cs=tinysrgb&w=1600',
+  studentsHallway: 'https://images.pexels.com/photos/5538600/pexels-photo-5538600.jpeg?auto=compress&cs=tinysrgb&w=1600',
+  studentsGrass: 'https://images.pexels.com/photos/6146971/pexels-photo-6146971.jpeg?auto=compress&cs=tinysrgb&w=1600',
+  businessTeam: 'https://images.pexels.com/photos/30688593/pexels-photo-30688593.jpeg?auto=compress&cs=tinysrgb&w=1600',
+  businessOffice: 'https://images.pexels.com/photos/7654401/pexels-photo-7654401.jpeg?auto=compress&cs=tinysrgb&w=1600',
+  businessCollab: 'https://images.pexels.com/photos/8547282/pexels-photo-8547282.jpeg?auto=compress&cs=tinysrgb&w=1600',
+  womanCoding: 'https://images.pexels.com/photos/5387257/pexels-photo-5387257.jpeg?auto=compress&cs=tinysrgb&w=1600',
+  womanOffice: 'https://images.pexels.com/photos/1181279/pexels-photo-1181279.jpeg?auto=compress&cs=tinysrgb&w=1600',
+};
+
+export const senegalAvatars = {
+  womanGreen: 'https://images.pexels.com/photos/31307734/pexels-photo-31307734.jpeg?auto=compress&cs=tinysrgb&w=400',
+  womanSuit: 'https://images.pexels.com/photos/37079375/pexels-photo-37079375.jpeg?auto=compress&cs=tinysrgb&w=400',
+  womanSmiling: 'https://images.pexels.com/photos/37118089/pexels-photo-37118089.jpeg?auto=compress&cs=tinysrgb&w=400',
+  womanOffice: 'https://images.pexels.com/photos/36551042/pexels-photo-36551042.jpeg?auto=compress&cs=tinysrgb&w=400',
+  womanDesk: 'https://images.pexels.com/photos/3727508/pexels-photo-3727508.jpeg?auto=compress&cs=tinysrgb&w=400',
+  womanFormal: 'https://images.pexels.com/photos/29852895/pexels-photo-29852895.jpeg?auto=compress&cs=tinysrgb&w=400',
+  womanHappy: 'https://images.pexels.com/photos/5905902/pexels-photo-5905902.jpeg?auto=compress&cs=tinysrgb&w=400',
+  manBlueSuit: 'https://images.pexels.com/photos/33048698/pexels-photo-33048698.jpeg?auto=compress&cs=tinysrgb&w=400',
+  manConfident: 'https://images.pexels.com/photos/7446948/pexels-photo-7446948.jpeg?auto=compress&cs=tinysrgb&w=400',
+  manYoung: 'https://images.pexels.com/photos/31647492/pexels-photo-31647492.jpeg?auto=compress&cs=tinysrgb&w=400',
+};
